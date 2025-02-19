@@ -1,6 +1,6 @@
 :root {
-    --main-bg-color: #111213;
-    --text-color: #bdbdbd;
+    --main-bg-color: #202020;
+    --text-color: #e7e6e6;
     --hover-color: #E66000;
   }
   * {
@@ -19,7 +19,7 @@
     width: 100%;
     top: 0;
     left: 0;
-    background-color: #000000; 
+    background-color:var(--main-bg-color); 
     z-index: 1000;
   }
 
