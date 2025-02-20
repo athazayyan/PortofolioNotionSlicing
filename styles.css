@@ -295,9 +295,9 @@ footer{
   flex-direction: column;
   justify-content: flex-end; 
   overflow: hidden;
-
   padding-bottom: 0; 
   margin-bottom: 0;
+  border-bottom: #4d4d4c 1px solid;
 }
 
 .books-container {
@@ -369,7 +369,7 @@ footer{
     border-radius: 5%;
     position: absolute;
     left: 50%;
-    top: 35%;
+    top: 30%;
     transform: translateX(-50%);
     }
 
