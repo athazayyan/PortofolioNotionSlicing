@@ -111,7 +111,9 @@
   #background {
   width: 100%;
   height: 300px;
+  object-fit: cover;
   position: relative;
+  object-position: 10% 75%;
   }
 
   #Foto-Profil-Home {
@@ -328,6 +330,38 @@ footer{
   opacity: 1;
 }
 
+.Project {
+  .Project-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 12vh;
+  }
+
+  .Project-container1,
+  .Project-container2,
+  .Project-container3 {
+    display: inline-block;
+    align-content: center;
+    text-align: center; 
+  }
+  .Project-container1 p {
+    font-size: 16px;
+    margin-top: 5px;
+    font-weight: 500;
+    word-wrap: break-word;
+    line-height: 1.5;
+  }
+  .Project-container1 img {
+    display: flex;
+    margin: 0 auto; 
+  }
+
+  .foto-project {
+    width: 120vh;
+    margin: 0 auto; /
+  }
+}
 
 @media screen and (max-width: 1000px) {
   #Foto-Profil-Home {
@@ -344,7 +378,7 @@ footer{
       flex-direction: column;
       align-items: center;
       text-align: center;
-      margin: 6vh 0 0 0;
+      margin: 10vh 0 0 0;
     }
     
     .content-head h1 {
@@ -375,5 +409,13 @@ footer{
     padding: 6px;
     display: inline-block;  
   }
-  
+
+  .Project .Project-container1 img {
+    width: 36vh;
+  }
+  .Project .Project-container1 p {
+    font-size: small;
+    text-wrap: balance;
+
+  }
 }
