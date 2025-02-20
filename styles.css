@@ -343,18 +343,22 @@ footer{
   .Project-container3 {
     display: inline-block;
     align-content: center;
-    text-align: center; 
+    text-align: center;
   }
   .Project-container1 p {
     font-size: 16px;
     margin-top: 5px;
     font-weight: 500;
-    word-wrap: break-word;
     line-height: 1.5;
+    margin: auto;
+
+    width: 50%;
   }
   .Project-container1 img {
     display: flex;
     margin: 0 auto; 
+    border-radius: 5%;
+    border: #0077b5 1px solid;
   }
 
   .foto-project {
