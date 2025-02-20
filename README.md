@@ -18,7 +18,8 @@ Proyek ini adalah slicing dari desain Notion ke dalam HTML dan CSS. Tujuannya ad
 - CSS
 
 
-## Cara Menjalankan Proyek
+
+## Cara Mennyunting Proyek Sesuai Yang Anda Kehendaki dan Buka di Lokal Anda
 
 1. Clone repositori ini:
     ```bash
@@ -26,9 +27,6 @@ Proyek ini adalah slicing dari desain Notion ke dalam HTML dan CSS. Tujuannya ad
     ```
 2. Buka file `index.html` di browser Anda.
 
-## Kontribusi
-
-Kontribusi sangat diterima! Silakan fork repositori ini dan buat pull request dengan perubahan Anda.
 
 
 
