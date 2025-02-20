@@ -1,7 +1,7 @@
 # PortofolioNotionSlicing
 
 Tampilan Website dapat dilihat di sini 
-[Sini](https://athazayyan.github.io/PortofolioNotionSlicing/index.html)
+[Sini](https://athazayyan.github.io/Portfolio/index.html)
  
 ## Deskripsi Proyek
 
