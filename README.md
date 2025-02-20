@@ -17,7 +17,9 @@ Proyek ini adalah slicing dari desain Notion ke dalam HTML dan CSS. Tujuannya ad
 - HTML
 - CSS
 
+##Tampilan
 
+![Tampilan](@AthaScreenshot.png)
 
 ## Cara Mennyunting Proyek Sesuai Yang Anda Kehendaki dan Buka di Lokal Anda
 
